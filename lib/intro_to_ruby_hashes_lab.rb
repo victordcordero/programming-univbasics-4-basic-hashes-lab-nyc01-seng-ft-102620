@@ -4,7 +4,7 @@ end
 
 def my_hash
   {:apple => "food",
-  : dog => "pet"
+  :dog => "pet"
   }
 end
 
